@@ -14,6 +14,11 @@
     <module>learn-dubbo</module>
     <module>learn-springmvc</module>
     <module>learn-springboot</module>
+      <module>learn-collection</module>
+      <module>learn-springcloud</module>
+    <module>learn-rocketmq</module>
+    <module>learn-zookeeper</module>
+    <module>learn-mybatis</module>
   </modules>
   <packaging>pom</packaging>
 

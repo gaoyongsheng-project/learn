@@ -7,11 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="learn-mysql" />
-        <module name="learn-dubbo" />
+        <module name="learn-mybatis" />
+        <module name="learn-springcloud" />
         <module name="learn-jvm" />
-        <module name="learn-springboot" />
         <module name="learn-thread" />
         <module name="learn-springmvc" />
+        <module name="learn-zookeeper" />
+        <module name="learn-dubbo" />
+        <module name="learn-collection" />
+        <module name="learn-rocketmq" />
+        <module name="learn-springboot" />
       </profile>
     </annotationProcessing>
   </component>
